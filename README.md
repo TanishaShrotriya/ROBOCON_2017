@@ -13,5 +13,5 @@ We had  very simple form of communication viz, setting and resetting digital I/O
 Serial data was used only in the Throwing code, for tranfer of set points,ie hardcoded pwm values for the throwing motor.
 
 There are a few redundancies in the code for the throwing assembly, but these were kept intentionally, and we didn't get 
-the time to eliminate them. Any inputs from the reader will always be appreciated as long as they are technically sound.
+the time to eliminate them.
 Thank you for your time!
